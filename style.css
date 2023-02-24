@@ -1,0 +1,43 @@
+/* Variables */
+$font-text: 'Inconsolata', monospace;
+$font-header: 'Signika', sans-serif;
+
+/* Global */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 500px;
+    background-color: #fff;
+    padding: 20px;
+}
+
+.title {
+    text-align: center;
+    margin-top: 50px;
+}
+
+body {
+    background-color: #AFEEEE;
+    margin: 0;
+}
+
+footer {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+h2 {
+    font-family: 'Signika', sans-serif;
+    font-size: 26px;
+}
+
+p {
+    font-family: 'Mynerve', cursive;
+}
+
+span {
+    font-weight: 700;
+}
