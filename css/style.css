@@ -17,7 +17,7 @@
 }
 
 body {
-    background-color: #AFEEEE;
+    background-color: #fff;
     margin: 0;
 }
 
@@ -37,4 +37,12 @@ p {
 
 span {
     font-weight: 700;
+}
+
+.shadow {
+    width: 600px;
+    box-shadow: 5px -5px 1px 1px rgba(9, 0, 2, .1);
+    border: 1px solid #000000;
+    margin: 50px auto;
+    
 }
